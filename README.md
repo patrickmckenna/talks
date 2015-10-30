@@ -1,7 +1,7 @@
 Please note: this repo makes use of [Git LFS](https://git-lfs.github.com/) for storing `.key` and `.pdf` files.
 
 #### Git and GitHub Secrets (Amsterdam Meetup, Oct. 29, 2015)
-A slightly modified version of the [talk from GitHub Universe 2015](# Git-and-GitHub-Secrets)
+A slightly modified version of the [talk from GitHub Universe 2015](#git-and-github-secrets-github-universe-2015)
 
 ###### Materials
 - [Keynote deck](https://github.com/patrickmckenna/talks/blob/master/2015-10-29-amsterdam-meetup-git-github-secrets.key)
