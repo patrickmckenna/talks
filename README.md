@@ -6,7 +6,7 @@ A slightly modified version of the [talk from GitHub Universe 2015](#git-and-git
 
 ###### Materials
 - [Keynote deck](https://github.com/patrickmckenna/talks/blob/master/2015-10-29-amsterdam-meetup-git-github-secrets.key)
-- [PDF export of slides](https://github.com/patrickmckenna/talks/blob/master/2015-10-29-amsterdam-meetup-git-github-secrets.key)
+- [PDF export of slides](https://github.com/patrickmckenna/talks/blob/master/2015-10-29-amsterdam-meetup-git-github-secrets.pdf)
 
 
 
