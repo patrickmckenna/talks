@@ -1,4 +1,7 @@
 *Please note: this repo makes use of [Git LFS](https://git-lfs.github.com/) for storing `.key` and `.pdf` files.*
+*Feel free to reach out by [opening an Issue](https://github.com/patrickmckenna/talks/issues/new?title=your_title_here&body=@patrickmckenna) in this repo. Please @mention me directly for a faster response!*
+
+---
 
 
 #### Git and GitHub Secrets (Amsterdam Meetup, Oct. 29, 2015)
