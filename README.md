@@ -4,6 +4,27 @@
 
 ---
 
+#### Scripting Git (Git Merge, April 5, 2016)
+
+###### Abstract
+This talk focused on how to get started writing basic scripts to do Git things. The intended audience: people who use Git regularly and understand the basics of its internals, but who do not write shell scripts regularly or use [libgit2](https://github.com/libgit2/libgit2) (or bindings to it).
+
+###### Materials
+Note: this deck relies on [`github/markdown-presentations`](https://github.com/github/markdown-presentations).
+- [Markdown slides](2016-04-05-git-merge-scripting-git.md)
+
+
+
+#### Using `git-imerge` (Git Merge, April 5, 2016)
+
+###### Abstract
+This talk offered an introduction to [`git-imerge`](https://github.com/mhagger/git-imerge), a tool for incrementally merging commits on two branches to make resolving merge conflicts easier. (It offers many other benefits, too!) The slides focus on the concepts behind the tool, and give a high-level overview of its implementation. I "live-coded" example uses of `git-imerge` during the presentation itself; the deck itself doesn't contain those instructions. Please see the [project's `README`](https://github.com/mhagger/git-imerge#instructions) for that.
+
+###### Materials
+Note: this deck relies on [`github/markdown-presentations`](https://github.com/github/markdown-presentations).
+- [Markdown slides](2016-04-05-git-merge-git-imerge.md)
+
+
 
 #### Git and GitHub Secrets (Amsterdam Meetup, Oct. 29, 2015)
 A slightly modified version of the [talk from GitHub Universe 2015](#git-and-github-secrets-github-universe-2015).
