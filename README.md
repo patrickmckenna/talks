@@ -4,6 +4,15 @@
 
 ---
 
+#### How GitHub Uses GitHub (Chicago Coder Conference, June 6, 2016)
+This talk focused on features of GitHub that employees regularly use, but which are unknown or rarely used by the large majority of users.
+
+###### Materials
+- [Keynote deck](https://github.com/patrickmckenna/talks/blob/master/2016-06-06-chicago-coder-conf-how-github-uses-github.key)
+- [PDF export of slides](https://github.com/patrickmckenna/talks/blob/master/2016-06-06-chicago-coder-conf-how-github-uses-github.pdf)
+
+
+
 #### Scripting Git (Git Merge, April 5, 2016)
 
 ###### Abstract
